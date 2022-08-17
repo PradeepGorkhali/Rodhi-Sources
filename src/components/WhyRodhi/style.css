@@ -1,0 +1,18 @@
+.Why_container{
+ margin-top: 20px;
+ 
+ color: white;
+ background-color: #DC143C;
+ padding: 20px;
+}
+.Why_container > h2{
+    text-align: center;
+}
+.li
+ {
+    list-style-type: square;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 29px;
+
+}

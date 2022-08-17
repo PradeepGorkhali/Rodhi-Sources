@@ -1,0 +1,12 @@
+.About_us {
+  text-align: center;
+  color: black;
+  margin-top: 40px;
+}
+.About_us > p {
+  margin-top: 30px;
+  font-size: 20px;
+  text-align: justify;
+  padding: 0 60px 0 60px;
+  line-height: 40px;
+}
